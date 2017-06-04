@@ -6,5 +6,5 @@ function add(a/*: number */, b/*: number */)/*: number */ {
 
 add("1", 2);
 
-/*flow-ignore*/
+// $FlowFixMe.
 add("2", 3);
