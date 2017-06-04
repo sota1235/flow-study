@@ -2,7 +2,7 @@
 type Item = {
   id: number,
   name: string,
-  imaegUrl?: string,
+  imageUrl?: string,
 }
 
 const validItem: Item = {
