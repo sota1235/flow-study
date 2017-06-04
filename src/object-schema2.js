@@ -11,4 +11,4 @@ const validItem: Item = {
 }; // Works
 
 validItem.imageUrl = 'https://test.sota1235.com/test.png'; // Works
-validItem.extraProp = 'extra!'; // Error :)
+// validItem.extraProp = 'extra!'; // Error :)

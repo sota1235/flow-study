@@ -11,4 +11,4 @@ const validItem: Item = {
 }; // Works
 
 validItem.imageUrl = 'https://test.sota1235.com/test.png'; // Works
-validItem.id = '32'; // Error
+// validItem.id = '32'; // Error
