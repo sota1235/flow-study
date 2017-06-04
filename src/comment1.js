@@ -5,3 +5,6 @@ function add(a/*: number */, b/*: number */)/*: number */ {
 }
 
 add("1", 2);
+
+/*flow-ignore*/
+add("2", 3);
